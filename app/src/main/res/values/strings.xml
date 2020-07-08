@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Covid19 Tracker</string>
+    <string name="credits">
+        \u2022 <b>covid19india.org</b> for India specific API.
+        \n\u2022 <b>corona.lmao.ninja</b> for Global API.
+        \n\u2022 <b>Icon8</b> for app icon and social media icons.
+    </string>
+    <string name="libs">
+        \u2022 <b>Glide</b> for showing flag images.
+    </string>
+</resources>
